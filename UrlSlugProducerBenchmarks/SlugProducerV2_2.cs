@@ -52,6 +52,5 @@ namespace UrlSlugBenchmarks
 
             return new string(cleanedUrlChars, startIndex, desiredLength - startIndex);
         }
-
     }
 }
