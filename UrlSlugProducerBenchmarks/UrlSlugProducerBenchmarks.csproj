@@ -219,7 +219,7 @@
     <Compile Include="SlugProducerBase.cs" />
     <Compile Include="SlugProducerV1.cs" />
     <Compile Include="SlugProducerV2.cs" />
-    <Compile Include="SlugProducerV2_2.cs" />
+    <Compile Include="SlugProducerV22.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

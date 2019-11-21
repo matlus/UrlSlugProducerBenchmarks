@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace UrlSlugBenchmarks
 {
-    internal sealed class SlugProducerV2_2 : SlugProducerBase
+    internal sealed class SlugProducerV22 : SlugProducerBase
     {
         protected override string GetUrlSlugCore(string title)
         {

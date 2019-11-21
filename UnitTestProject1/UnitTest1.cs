@@ -6,8 +6,8 @@ namespace UnitTestProject1
     [TestClass]
     public class UnitTest1
     {
-        private static char s_longDash = '\u2013';
-        private readonly SlugProducerBase _slugProducer = new SlugProducerV2_2();
+        private static readonly char s_longDash = '\u2013';
+        private readonly SlugProducerBase _slugProducer = new SlugProducerV22();
 
         [TestMethod]
         [TestCategory("ClassTest")]
